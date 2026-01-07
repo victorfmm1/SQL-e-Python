@@ -4,6 +4,7 @@ Repositório com scripts de ETL em SQL e Python voltados para análises comercia
 SQL
 
 📊 Curva ABC de produtos
+Visual final: https://www.linkedin.com/in/victor-martins1/overlay/projects/1075620374/multiple-media-viewer/?profileId=ACoAAB0P99gB7it5mKmAajN7uefIZbsk4cDRvY8&treasuryMediaId=1714767572932
 📦 Controle de condicionais convertidas e entregues
 
 Python
